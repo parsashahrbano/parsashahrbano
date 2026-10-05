@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 I'm a Computer Engineering graduate with a strong interest in Artificial Intelligence, Natural Language Processing, and Language Models.  
-I'm currently working as a university instructor at Alzahra University, where I teach courses including Artificial Intelligence, AI Lab, and Database Lab.
+I'm currently working as a University Lecturer at Alzahra University, where I teach courses including Artificial Intelligence, AI Lab, and Database Lab.
 
 🔭 &nbsp;I'm currently working on **AI and web application**  
 🌱 &nbsp;I'm currently learning **state of the art AI algorithms**  
