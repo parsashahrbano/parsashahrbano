@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="https://github.com/parsashahrbano">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Parsa" alt="Hello! I&#39;m Parsa" style="font-family:  Bradley Hand, cursive;"/>
- 
-    Bradley Hand, cursive
-  </a>
+ <a href="https://github.com/parsashahrbano">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=602&font=Caveat&text=Hello!%20I'm%20Parsa" alt="Hello! I'm Parsa" />
+</a>
+
 </p>
 
 <p align="center">
